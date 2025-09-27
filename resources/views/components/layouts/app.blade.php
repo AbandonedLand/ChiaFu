@@ -14,9 +14,9 @@
             <img src="./img/banner_transparent.png"/>
             <div class="tui-divider" ></div>
         </div>
-
+        <div class="centered" style="margin-top:30px">
             {{ $slot }}
-
+        </div>
 
 
     </div>
